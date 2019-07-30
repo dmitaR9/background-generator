@@ -1,0 +1,1 @@
+http://zadatak.singidunum.ac.rs/predmeti/osnove-html-css-js/news-sample.json
